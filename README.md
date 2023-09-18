@@ -2,10 +2,14 @@
 
 ## Objective
 
-This week's theme is "logic" so you'll find most of the problem set is
-structured about quantifiers and facts about propositions.  To ground
-this in some concrete examples, the problem set ends with two
-"application" problems.
+This week our goal is "Proof terms and tactics" which is an
+opportunity to "look under the hood" and understand better what Lean
+is doing in the background.  What are tactics?  What are "terms" and
+how does exhibiting a term of a certain type "prove" anything?
+
+This problem set is designed to be a bit shorter, in part to provide a
+bit of a breather and let us all catch up before next week when we dig
+deeper into mathematical applications.
 
 ---
 
