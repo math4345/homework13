@@ -1,13 +1,8 @@
-import Homework05
+import Homework06
 import Mathlib.Util.AssertNoSorry
 
-assert_no_sorry s05p01
-assert_no_sorry s05p02
-assert_no_sorry s05p03
-assert_no_sorry s05p04
-assert_no_sorry s05p05
-assert_no_sorry s05p06
-assert_no_sorry s05p07
-
-
-
+assert_no_sorry s06p01
+assert_no_sorry s06p02
+assert_no_sorry s06p03
+assert_no_sorry s06p04
+assert_no_sorry s06p05

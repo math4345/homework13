@@ -1,15 +1,10 @@
-# 🎯 Goal: Logic and Propositions
+# 🎯 Goal: Sequences
 
 ## Objective
 
-This week our goal is "Proof terms and tactics" which is an
-opportunity to "look under the hood" and understand better what Lean
-is doing in the background.  What are tactics?  What are "terms" and
-how does exhibiting a term of a certain type "prove" anything?
+This is the first of many "topics" weeks, and our first topic is sequences.
 
-This problem set is designed to be a bit shorter, in part to provide a
-bit of a breather and let us all catch up before next week when we dig
-deeper into mathematical applications.
+The homework this week is quite challenging.  We will have time during lecture to discuss this material.  The challenge here is that we are mixing together mathematical content (i.e., the definition of convergent sequence) alongside "Lean" content.
 
 ---
 
