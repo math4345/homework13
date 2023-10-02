@@ -1,4 +1,4 @@
-import Homework06
+import Homework07
 import Mathlib.Util.AssertNoSorry
 
 assert_no_sorry s07p01
