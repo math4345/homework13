@@ -1,7 +1,7 @@
 import Lake
 open Lake DSL
 
-package «homework05» {
+package «homework07» {
   -- add any package configuration options here
 }
 
@@ -9,7 +9,7 @@ require mathlib from git
   "https://github.com/leanprover-community/mathlib4.git"
 
 @[default_target]
-lean_lib «Homework05» {
+lean_lib «Homework07» {
   -- add any library configuration options here
 }
 

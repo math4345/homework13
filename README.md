@@ -1,10 +1,10 @@
-# 🎯 Goal: Sequences
+# 🎯 Goal: Inequalities
 
 ## Objective
 
-This is the first of many "topics" weeks, and our first topic is sequences.
+This is the second of many "topics" weeks.
 
-The homework this week is quite challenging.  We will have time during lecture to discuss this material.  The challenge here is that we are mixing together mathematical content (i.e., the definition of convergent sequence) alongside "Lean" content.
+The homework this week is designed to be easier than last week, and serves to review some older content.  This is a good time to get caught up if you are feeling behind.
 
 ---
 
