@@ -1,10 +1,10 @@
-# 🎯 Goal: Inequalities
+# 🎯 Goal: Functions
 
 ## Objective
 
-This is the second of many "topics" weeks.
-
-The homework this week is designed to be easier than last week, and serves to review some older content.  This is a good time to get caught up if you are feeling behind.
+This week, we explore "functions."  This means reviewing what
+`Injective` and `Surjective` mean, as well as the direct image and the
+preimage.
 
 ---
 
