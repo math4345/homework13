@@ -2,9 +2,9 @@
 
 ## Objective
 
-This week, we explore "functions."  This means reviewing what
-`Injective` and `Surjective` mean, as well as the direct image and the
-preimage.
+After having considered sets and functions, now we look at equivalence
+relations.  Understanding different notions of "the same" also means
+we can consider quotients.
 
 ---
 
