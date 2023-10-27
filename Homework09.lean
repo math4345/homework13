@@ -11,7 +11,7 @@ def s09p01 (a b c d : α) (h : Transitive r) : R a b → R b c → R c d → R a
 def s09p02 : ∃ (S : α → α → Prop), Symmetric S ∧ Transitive S ∧ ¬ Reflexive S := by sorry
 
 -- Here is an example of a relation.  Show it is an equivalence relation.
-def square (a b : ℕ) : Prop := ∃ k, a * b = k * k 
+def square (a b : ℕ) : Prop := ∃ k, (a + 1) * (b + 1) = k * k 
 def s09p03 : Reflexive square := by sorry
 def s09p04 : Symmetric square := by sorry
 def s09p05 : Transitive square := by sorry
