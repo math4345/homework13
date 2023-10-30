@@ -1,10 +1,10 @@
-# 🎯 Goal: Functions
+# 🎯 Goal: Number theory
 
 ## Objective
 
-After having considered sets and functions, now we look at equivalence
-relations.  Understanding different notions of "the same" also means
-we can consider quotients.
+Having discussed the "foundations" of sets, functions, relations, we
+now dig into various "topics" in mathematics.  The first of these is
+some elementary number theory.
 
 ---
 
