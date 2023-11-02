@@ -1,10 +1,11 @@
-# 🎯 Goal: Number theory
+# 🎯 Goal: Metric spaces
 
 ## Objective
 
-Having discussed the "foundations" of sets, functions, relations, we
-now dig into various "topics" in mathematics.  The first of these is
-some elementary number theory.
+This week we discuss "metric spaces," which requires learning (or
+reviewing) some facts about metric spaces.  The homework problems
+focus on unions, intersections, and showing that constant sequences
+are Cauchy.
 
 ---
 
