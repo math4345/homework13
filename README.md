@@ -1,11 +1,12 @@
-# 🎯 Goal: Metric spaces
+# 🎯 Goal: Topological spaces
 
 ## Objective
 
-This week we discuss "metric spaces," which requires learning (or
-reviewing) some facts about metric spaces.  The homework problems
-focus on unions, intersections, and showing that constant sequences
-are Cauchy.
+After having seen a bit about metric spaces, this week we survey the
+theory of topological spaces.  Some of you may have seen some of this
+before (e.g., in the setting of real analysis), but in the setting of
+Lean, the biggest challenge is handling the more complicated set
+theory, e.g., indexed families of sets.
 
 ---
 
