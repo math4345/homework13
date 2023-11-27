@@ -1,12 +1,10 @@
-# 🎯 Goal: Topological spaces
+# 🎯 Goal: Groups
 
 ## Objective
 
-After having seen a bit about metric spaces, this week we survey the
-theory of topological spaces.  Some of you may have seen some of this
-before (e.g., in the setting of real analysis), but in the setting of
-Lean, the biggest challenge is handling the more complicated set
-theory, e.g., indexed families of sets.
+This is our last "regular" homework; the goal is to gain some exposure
+to how mathlib handles "algebra" which in this case, means group
+theory.
 
 ---
 
